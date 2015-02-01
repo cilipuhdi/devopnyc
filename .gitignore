@@ -11,6 +11,10 @@
 #----------------------------------------------------------------------------
 # ignore binstubs
 bin/
+
+# vagrant files
+.vagrant
+
 # bundler state
 /.bundle
 /vendor/bundle/
